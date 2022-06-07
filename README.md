@@ -1,3 +1,3 @@
 # electron drag & drop
 
-Playing with drag and drop functionality of the ElectronJS framework.
+Playing with drag and drop between app and system functionality and system file management
