@@ -1,3 +1,3 @@
-# electron_drag_drop
+# electron drag & drop
 
 Playing with drag and drop functionality of the ElectronJS framework.
